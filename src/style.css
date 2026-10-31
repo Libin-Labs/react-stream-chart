@@ -1,0 +1,15 @@
+.lp-stream-chart {
+  min-width: 0;
+}
+.lp-stream-chart__tooltip {
+  padding: 6px 9px;
+  border: 1px solid #cbd5e1;
+  border-radius: 4px;
+  background: #fff;
+  color: #0f172a;
+  font:
+    12px/1.5 system-ui,
+    sans-serif;
+  box-shadow: 0 2px 6px #0002;
+  z-index: 1;
+}
